@@ -1,0 +1,78 @@
+{
+  "users": [
+    {
+      "id": 2,
+      "name": "Can Boz"
+    },
+    {
+      "id": 3,
+      "name": "Cemil Türe"
+    },
+    {
+      "name": "Marguerite Volkman",
+      "id": 4
+    },
+    {
+      "name": "Neil Crist",
+      "id": 5
+    },
+    {
+      "name": "Pablo Daniel PhD",
+      "id": 6
+    }
+  ],
+  "albums": [
+    {
+      "userId": 3,
+      "title": "Bespoke Concrete Hat",
+      "id": 16
+    },
+    {
+      "userId": 3,
+      "title": "Unbranded Soft Cheese",
+      "id": 17
+    },
+    {
+      "userId": 3,
+      "title": "Electronic Rubber Computer",
+      "id": 18
+    },
+    {
+      "userId": 3,
+      "title": "Modern Concrete Fish",
+      "id": 19
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 16,
+      "url": "https://loremflickr.com/150/150?lock=882939889975296",
+      "id": 4
+    },
+    {
+      "albumId": 16,
+      "url": "https://picsum.photos/seed/9oOGjxnk/150/150",
+      "id": 5
+    },
+    {
+      "albumId": 16,
+      "url": "https://loremflickr.com/150/150?lock=1462025299427328",
+      "id": 6
+    },
+    {
+      "albumId": 16,
+      "url": "https://loremflickr.com/150/150?lock=434773784788992",
+      "id": 7
+    },
+    {
+      "albumId": 16,
+      "url": "https://picsum.photos/seed/VzonOc/150/150",
+      "id": 8
+    },
+    {
+      "albumId": 16,
+      "url": "https://picsum.photos/seed/Zq6tTz/150/150",
+      "id": 9
+    }
+  ]
+}
